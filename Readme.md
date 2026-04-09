@@ -191,7 +191,7 @@ This code is released under the MIT License. <!--See the [LICENSE](LICENSE) file
 
 If you use this code or refer to the work in your own research, please cite the following paper:
 
-**Mushfiqur Rahman, Sung Joon Maeng, Ismail Guvenc, Chau-Wai Wong, Mihail Sichitiu, Jason A. Abrahamson, and Arupjyoti Bhuyan**. "UAV-Based 3D Spectrum Sensing: Insights on Altitude, Bandwidth, Trajectory, and Effective Antenna Patterns on REM Reconstruction" *IEEE Sensors*, 2026. <!-- [Volume], [Pages]. DOI: [DOI Number].-->
+**Mushfiqur Rahman, Sung Joon Maeng, Ismail Guvenc, Chau-Wai Wong, Mihail Sichitiu, Jason A. Abrahamson, and Arupjyoti Bhuyan**. "UAV-Based 3D Spectrum Sensing: Insights on Altitude, Bandwidth, Trajectory, and Effective Antenna Patterns on REM Reconstruction" submitted to *IEEE Sensors*, 2026. <!-- [Volume], [Pages]. DOI: [DOI Number].-->
 
 For more information, please refer to the full paper: **[https://arxiv.org/abs/2603.10362]**.
 <!--## Acknowledgements
